@@ -5,9 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Laborator10JavaApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(Laborator10JavaApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(Laborator10JavaApplication.class, args);
+    }
 }
+
